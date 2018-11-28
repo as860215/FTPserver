@@ -1,0 +1,10 @@
+C:\Users\as860215\Desktop\Campro\FTP\FTP_Server\FTP_Server\bin\Debug\FTP_Server.exe.config
+C:\Users\as860215\Desktop\Campro\FTP\FTP_Server\FTP_Server\bin\Debug\FTP_Server.exe
+C:\Users\as860215\Desktop\Campro\FTP\FTP_Server\FTP_Server\bin\Debug\FTP_Server.pdb
+C:\Users\as860215\Desktop\Campro\FTP\FTP_Server\FTP_Server\obj\Debug\FTP_Server.Form1.resources
+C:\Users\as860215\Desktop\Campro\FTP\FTP_Server\FTP_Server\obj\Debug\FTP_Server.Properties.Resources.resources
+C:\Users\as860215\Desktop\Campro\FTP\FTP_Server\FTP_Server\obj\Debug\FTP_Server.csproj.GenerateResource.cache
+C:\Users\as860215\Desktop\Campro\FTP\FTP_Server\FTP_Server\obj\Debug\FTP_Server.csproj.CoreCompileInputs.cache
+C:\Users\as860215\Desktop\Campro\FTP\FTP_Server\FTP_Server\obj\Debug\FTP_Server.exe
+C:\Users\as860215\Desktop\Campro\FTP\FTP_Server\FTP_Server\obj\Debug\FTP_Server.pdb
+C:\Users\as860215\Desktop\Campro\FTP\FTP_Server\FTP_Server\obj\Debug\FTP_Server.csprojAssemblyReference.cache
