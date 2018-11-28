@@ -8,7 +8,7 @@ Please following the format in default value.</br>
 If you lost the default file, you can see the sample below</br>
 </br>
 ====Don't copy me====</br>
-IP=192.168.12.44</br>
+IP=127.0.0.1</br>
 PORT=21</br>
 FILE=/C/Users/user/Desktop/FTPserver</br>
 ====Don't copy me====</br>
@@ -25,7 +25,7 @@ Copy the sample and overwrite all text in your setting.txt.</br>
 如果您遺失了預設檔案，可以參考以下範例</br>
 </br>
 ====不要複製我====</br>
-IP=192.168.12.44</br>
+IP=127.0.0.1</br>
 PORT=21</br>
 FILE=/C/Users/user/Desktop/FTPserver</br>
 ====不要複製我====</br>
